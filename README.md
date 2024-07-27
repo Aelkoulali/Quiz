@@ -1,2 +1,3 @@
-# Quiz
-## Quiz Application with Timer Using HTML, CSS & Javascript
+# Quiz App
+## Quiz App with Timer
+## HTML, CSS & Javascript
