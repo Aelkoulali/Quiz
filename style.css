@@ -8,9 +8,11 @@
 }
 
 body{
-    background-image: url('Images/Background.jpg');}
+    background-image: url('Images/Background.jpg');
+    background-size: cover;
+}
 
-::selection{
+    ::selection{
     color: #fff;
 }
 
