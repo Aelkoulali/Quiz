@@ -51,8 +51,8 @@ let questions = [
     options: [
       "variable carName;",
       "v carName;",
-      "var carName",
-      "vari carName"
+      "var carName;",
+      "vari carName",
     ]
   },
 ];
