@@ -1,7 +1,13 @@
 # 🗂️ Quiz App with Timer 🤔⏳
-##  ➡️ Key Concepts :
+
+## ➡️ Key Concepts :
+
 ### ✅ JavaScript, HTML & CSS
-### ✅ Onclick Event  
+
+### ✅ Onclick Event
+
 ### ✅ add( )
+
 ### ✅ remove( )
+
 ### ✅ If...Else If Statement
