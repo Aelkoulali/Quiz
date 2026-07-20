@@ -1,13 +1,18 @@
 # 🗂️ Quiz App with Timer 🤔⏳
 
-## ➡️ Key Concepts :
+A Quiz App built with HTML, CSS, and JavaScript. It uses an on-click flow to answer questions and includes a countdown timer. The app shows correct/incorrect feedback using if / else-if logic.
 
-### ✅ JavaScript, HTML & CSS
+## ✅ Key Features
+- JavaScript, HTML & CSS
+- Onclick event to handle answers
+- Timer for quiz countdown
+- **Add ( )** and **Remove ( )** logic for options/questions
+- If / else-if statements to check answers
 
-### ✅ Onclick Event
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-### ✅ add( )
-
-### ✅ remove( )
-
-### ✅ If...Else If Statement
+## ▶️ How to Run
+1. Open `index.html` in your browser.
