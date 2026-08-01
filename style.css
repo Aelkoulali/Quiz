@@ -16,6 +16,10 @@ body {
   color: #fff;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .quiz_logo {
   position: absolute;
   top: 20px;
