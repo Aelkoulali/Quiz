@@ -42,6 +42,8 @@ body {
   left: 50%;
   transform: translateX(-50%);
   color: #fff;
+  font-size: 30px;
+  font-weight: 600;
 }
 .start_btn,
 .info_box,
